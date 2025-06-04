@@ -15,7 +15,7 @@ export const METADATA = {
         "Folio",
     ].join(", "),
     image:
-        "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+        "https://personal-portfolio-39x1c71dj-tyriques-projects-c275d275.vercel.app/preview.png",
     language: "English",
     themeColor: "#000000",
 };
