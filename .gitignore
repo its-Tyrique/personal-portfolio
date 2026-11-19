@@ -33,3 +33,9 @@ yarn-error.log*
 # vercel
 .vercel
 /.env.local
+# typescript
+*.tsbuildinfo
+
+# playwright
+/test-results
+/playwright-report
